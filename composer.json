@@ -1,0 +1,11 @@
+{
+  "require": {
+    "aws/aws-sdk-php": "^3.23",
+    "monolog/monolog": "^1.18.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "src\\": "src"
+    }
+  }
+}
